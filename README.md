@@ -3,6 +3,9 @@ ________________________________________
 Project Overview:
 Dataset này chứa thông tin chi tiết về các khoản vay từ một FinTech lending platform trong giai đoạn 2007-2014. Dữ liệu bao gồm thông tin về đặc điểm của người vay, điều khoản khoản vay, lịch sử trả nợ, và tình trạng khoản vay. Dataset này cung cấp cái nhìn toàn diện về hành vi vay nợ, hiệu suất trả nợ, và các yếu tố ảnh hưởng đến rủi ro tín dụng. Dữ liệu được thu thập trong khoảng thời gian bao gồm cả cuộc khủng hoảng tài chính 2008 và giai đoạn phục hồi sau đó, cho phép phân tích tác động của các biến động thị trường đến hành vi vay nợ và khả năng trả nợ.
 ________________________________________
+Mục tiêu:
+Nhận diện những nhóm khách hàng nào có nguy cơ dẫn đến nợ xấu từ đó đưa ra bộ nguyên tắc để hạn chế nợ xấu
+________________________________________
 Dictionary Dataset
 -	id → Mã khoản vay độc nhất
 -	customer_id → Mã khách hàng độc nhất
